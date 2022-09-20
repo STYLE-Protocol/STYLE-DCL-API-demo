@@ -1,5 +1,4 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import Bloom from "@ethereumjs/vm/dist/bloom";
 import Web3 from "web3";
 
 import Base_metadata from "../../../../../../public/contracts/Base_metadata.json";
